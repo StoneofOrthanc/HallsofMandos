@@ -1,1 +1,1 @@
-This is my second commit to further practice.
+So far so good. This is my second commit to further practice.
